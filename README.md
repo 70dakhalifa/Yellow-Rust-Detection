@@ -8,11 +8,6 @@ This project focuses on developing an automated image classification system for 
 - Utilize image preprocessing and augmentation techniques to improve model generalization.
 - Evaluate the model using performance metrics such as accuracy and confusion matrices.
 
-### **Dataset Details**
-- **Training Data Path:** `C:/Users/MSI/Downloads/archive/YELLOW-RUST-19`
-- **Testing Data Path:** `C:/Users/MSI/Downloads/archive/RAW`
-- Images are organized into subdirectories based on their respective classes.
-- Data preprocessing includes resizing images to a fixed dimension and applying normalization.
 
 ### **Methodology**
 1. **Data Preprocessing:**
