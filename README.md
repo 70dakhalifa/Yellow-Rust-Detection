@@ -43,5 +43,26 @@ This project focuses on developing an automated image classification system for 
 - The model correctly classifies a significant number of test images.
 - Errors and misclassifications are analyzed to improve future iterations of the model.
 
+### **Classes description**
+
+No disease (0: No signs of infection),
+
+
+Resistant (R: Minor signs of infection),
+
+
+Moderately Resistant (MR: Small and medium signs of infection),
+
+
+Moderately Resistant-Moderately Susceptible (MRMS),
+
+
+
+Moderately Susceptible (MS: Medium signs of infection) 
+
+
+Susceptible (S: Major signs of infection)
+
+
 ### **Conclusion**
 This project demonstrates the potential of deep learning in agricultural disease detection. The model provides an effective solution for automating Yellow Rust disease classification, which can assist farmers and researchers in early disease detection and intervention.
